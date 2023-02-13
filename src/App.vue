@@ -12,6 +12,8 @@ import Navbar from "./components/Navbar.vue";
 </template>
 
 <style>
+
+
 .container {
   max-width: 1921px;
   width: 91%;
